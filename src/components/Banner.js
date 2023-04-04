@@ -81,7 +81,7 @@ export const Banner = () => {
                   <p>
                     I am a passionate third-year student at Vishwakarma
                     Institute of Information Technology in Pune, with a keen
-                    interest in coding, competitive programming, and web
+                    interest in coding, competitive programming and web
                     development. Through this website, I aim to showcase my
                     skills and experiences in these fields, sharing valuable
                     insights and knowledge gained through my education and
