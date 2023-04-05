@@ -12,18 +12,21 @@ export const Projects = () => {
   const projects = [
     {
       title: "Full Stack Portfolio Website",
-      description: "This was my first project using basic technologies like HTML , CSS and javascript. This is my first portfolio website ",
+      description: "This was my first project using basic technologies like HTML , CSS , javascript and ReactJS. This is my first portfolio website ",
       imgUrl: projImg1,
+      tolink : 'https://github.com/vandan2410/PortFolio',
     },
     {
       title: "Food Ordering Website",
       description: "A web-platform which will used in small canteens to order food and bring it to the table. It a MERN stack project which i am an currently working on.",
       imgUrl: projImg2,
+      tolink : 'https://github.com/vandan2410/FoodOrder',
     },
     {
       title: "E-Commerce Website",
       description: "This is a frontend freelancing work done for a company name Manik chemical industries . It uses technologies like ReactJS , Tailwind CSS , BootStrap etc.",
       imgUrl: projImg3,
+      tolink: ''
     },
     // {
     //   title: "Business Startup",
