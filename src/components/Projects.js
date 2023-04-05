@@ -26,7 +26,7 @@ export const Projects = () => {
       title: "E-Commerce Website",
       description: "This is a frontend freelancing work done for a company name Manik chemical industries . It uses technologies like ReactJS , Tailwind CSS , BootStrap etc.",
       imgUrl: projImg3,
-      tolink: ''
+      tolink: 'https://github.com/vandan2410/ManikChemicalIndustries'
     },
     // {
     //   title: "Business Startup",
