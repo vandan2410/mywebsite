@@ -350,7 +350,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Projects Css ************/
 .project {
-  padding: 80px 0;
+  padding: 80px 0px;
   position: relative;
   background-color: black;
 }
@@ -426,7 +426,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
-  height: 100% !important ; 
+  height: 100% !important ;
+   
 }
 .proj-imgbx::before {
   content: "";
@@ -477,6 +478,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj{
   height: 100%;
   width: 100%;
+  object-fit: contain;
 }
 
 /************ Projects Css ************/

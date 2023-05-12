@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/portfolio.png";
+import projImg1 from "../assets/img/rainfall.png";
 import projImg2 from "../assets/img/foodorder.png";
 import projImg3 from "../assets/img/leo.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -11,8 +11,8 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Full Stack Portfolio Website",
-      description: "This was my first project using basic technologies like HTML , CSS , javascript and ReactJS. This is my first portfolio website ",
+      title: "RainFall Prediction using Linear Regression",
+      description: "A machine learning model prepared with linear regression in which we can predict the rainfall in any year and campare it to mean. ",
       imgUrl: projImg1,
       tolink : 'https://github.com/vandan2410/PortFolio',
     },
