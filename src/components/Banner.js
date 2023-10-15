@@ -79,7 +79,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    I am a passionate third-year student at Vishwakarma
+                    I am a passionate final-year student at Vishwakarma
                     Institute of Information Technology in Pune, with a keen
                     interest in coding, competitive programming and web
                     development. Through this website, I aim to showcase my
