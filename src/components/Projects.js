@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/rainfall.png";
 import projImg2 from "../assets/img/foodorder.png";
-import projImg3 from "../assets/img/leo.png";
+import projImg3 from "../assets/img/careerhelp.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -23,8 +23,8 @@ export const Projects = () => {
       tolink : 'https://github.com/vandan2410/FoodOrder',
     },
     {
-      title: "E-Commerce Website",
-      description: "This is a frontend freelancing work done for a company name Manik chemical industries . It uses technologies like ReactJS , Tailwind CSS , BootStrap etc.",
+      title: "CareerHelp",
+      description: "An interactive web platform designed to empower college students by sharing firsthand placement experiences, aiding in better interview preparation. Technologies stack used is PERN stack ",
       imgUrl: projImg3,
       tolink: 'https://github.com/vandan2410/ManikChemicalIndustries'
     },
